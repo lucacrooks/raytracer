@@ -85,8 +85,8 @@ def load_obj(filename):
     tris  = np.array(tris, dtype=np.int32)
     return verts, tris
 
-WIDTH  = 300
-HEIGHT = 300
+WIDTH  = 200
+HEIGHT = 200
 RES = 2
 
 #cam
